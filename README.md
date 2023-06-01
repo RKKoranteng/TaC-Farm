@@ -6,6 +6,13 @@ This repository (" DBGuru Project ") is where I (Kofi from [RKKoranteng](https:/
 ## Courses
 Below are the list of courses:
 * [Oracle DBA for beginners](#)
-* [Understand AWS for DBA](#)
-* [Modern Oracle DBA](#)
+* [AWS cloud DBA](#)
+* [DevOps DBA](#)
 
+If you are interested in fixing issues and contributing directly to the community base, please see the document [How to Contribute](#), which covers the following:
+* [Contributing to lesson notes](#)
+* [Contributing to translations](#)
+* [Finding an issue to work on](#)
+* [The development workflow, including debugging and running tests](#)
+
+## Feedback
