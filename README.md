@@ -27,4 +27,5 @@ If you are interested in fixing issues and contributing directly to the communit
 * [Request a new feature](#)
 * [Upvote popular feature requests](#)
 * Connect with me on [LinkedIn](#)
+
 See my [wiki](#) for a Oracle DBA interviewing tips and some other career tips
