@@ -28,4 +28,4 @@ If you are interested in fixing issues and contributing directly to the communit
 * [Upvote popular feature requests](#)
 * Connect with me on [LinkedIn](#)
 
-See my [wiki](#) for a Oracle DBA interviewing tips and some other career tips
+See my [wiki](#) for a Oracle DBA interviewing tips and some other career tips.
