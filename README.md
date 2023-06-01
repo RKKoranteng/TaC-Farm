@@ -16,3 +16,8 @@ If you are interested in fixing issues and contributing directly to the communit
 * [The development workflow, including debugging and running tests](#)
 
 ## Feedback
+* Ask a question on [DBGuru](#)
+* [File an issue](#)
+* [Upvote popular feature requests](#)
+* [Request a new feature](#)
+* Connect with me on [LinkedIn](#) and let me know what you think!
