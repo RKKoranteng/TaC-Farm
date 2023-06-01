@@ -24,6 +24,7 @@ If you are interested in fixing issues and contributing directly to the communit
 ## Feedback
 * Ask a question on [DBGuru](#)
 * [File an issue](#)
-* [Upvote popular feature requests](#)
 * [Request a new feature](#)
-* Connect with me on [LinkedIn](#) and let me know what you think!
+* [Upvote popular feature requests](#)
+* Connect with me on [LinkedIn](#)
+See my [wiki](#) for a Oracle DBA interviewing tips and some other career tips
