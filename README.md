@@ -12,6 +12,7 @@ Below are the list of courses:
 ## Contributing
 There are many ways in which you can participate in this project, for example:
 * [Submit bugs and feature requests](#), and help me verify as they are checked in
+* Review [source code changes](#)
 * Review the [documentation](#), [course lesson notes](#) and make pull requests for anything from typos to additional and new content
 
 If you are interested in fixing issues and contributing directly to the community base, please see the document [How to Contribute](#), which covers the following:
