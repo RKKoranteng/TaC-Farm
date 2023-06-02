@@ -6,15 +6,15 @@ This repository is where I ([Kofi from RKKoranteng](https://rkkoranteng.com/)) s
 
 ## Courses
 I'm constantly adding new courses as well as updating existing courses as needed. Below are my current courses for you to learn from:
-* [Oracle DBA for beginners](#)
-* [AWS cloud DBA](#)
-* [DevOps DBA](#)
+* [Basics of computers](#)
+* [Beginners guide to Linux OS](#)
+* [Oracle Database Administration 101](#)
 
 ## Contributing
 There are many ways in which you can participate in this project, for example:
 * [Submit bugs and feature requests](#), and help me verify as they are checked in
-* Review [source code changes](#)
-* Review the [documentation](#), [course lesson notes](#) and make pull requests for anything from typos to additional and new content
+* Review [code changes](#)
+* Review the [documentation](#), and [course materials](#) for anything from typos to additional new content
 
 If you are interested in fixing issues and contributing directly to the community base, please see the document [How to Contribute](#), which covers the following:
 * [Contributing to lesson notes](#)
@@ -29,4 +29,11 @@ If you are interested in fixing issues and contributing directly to the communit
 * [Upvote popular feature requests](#)
 * Connect with me on [LinkedIn](#)
 
-See my [wiki](#) for a Oracle DBA interviewing tips and some other career tips.
+See my [wiki](#) for helpful tips on interviewing, DBA role and responsibilities, any many more.
+
+## Code of Conduct
+This project has adopted the [Open Source Code of Conduct](#). For more information see the [Code of Conduct FAQ](#) or [contact me](https://rkkoranteng.com/#contac_rk) with any additional questions or comments.
+
+## License
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the [MIT license](#)
