@@ -1,10 +1,11 @@
 # DBGuru GitHub Community 
+Hi, welcome to the "[DBGuru](#) Project" GitHub Community. The goal of this project is to provide free learning material for aspiring DBA's.
 
 ## The Repository
-Hi, welcome to the "[DBGuru](#) Project" GitHub Community. This repository is where I ([Kofi from RKKoranteng](https://rkkoranteng.com/)) share my database administration training material with the community. Not only do I free DBA learning material here, I also publish my [wiki](https://github.com/RKKoranteng/DBGuru/wiki), [DBA career roadmap](https://github.com/RKKoranteng/DBGuru/wiki/Roadmap), and my [monthly release plans](https://github.com/RKKoranteng/DBGuru/wiki/). I strongly believe that knowledge should be free for all who wish to learn it. All my training materials and code are available to everyone under the standard [MIT license](#/).
+This repository is where I ([Kofi from RKKoranteng](https://rkkoranteng.com/)) share my database administration training material with the community. Not only do I free DBA learning material here, I also publish my [wiki](https://github.com/RKKoranteng/DBGuru/wiki), [DBA career roadmap](https://github.com/RKKoranteng/DBGuru/wiki/Roadmap), and my [monthly release plans](https://github.com/RKKoranteng/DBGuru/wiki/). I strongly believe that knowledge should be free for all who wish to learn it. All my training materials and code are available to everyone under the standard [MIT license](#/).
 
 ## Courses
-Below are the list of courses:
+I'm constantly adding new courses as well as updating existing courses as needed. Below are my current courses for you to learn from:
 * [Oracle DBA for beginners](#)
 * [AWS cloud DBA](#)
 * [DevOps DBA](#)
