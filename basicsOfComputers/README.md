@@ -9,7 +9,6 @@ In this course you'll learn the fundermentals of computer technology.
 * [Network](#)
 * [Security best practices](#)
 * [virtualization](#)
-* [Assessment](#)
 * [Project](#)
 * [Next steps](#)
 
