@@ -9,6 +9,7 @@ Hi, my name is [Richard Koranteng](https://rkkoranteng.com) and I've been workin
 * 2016 : Oracle SME @ Aitheras (Consultant)
 * 2016 : Sr DevOps DBA @ Common Securitization Solutions (Consultant)
 * 2019 : Sr DBA @ Space Telescope Science Institute (Consultant)
+* 2019 : Sr DevOps DBA @ Harvard Pilgrim
 * 2021 : Cloud DBA @ Audacious Inquiry (Consultant)
 * 2021 : Oracle Developer @ BI Worldwide (Consultant)
 * 2021 : Sr Database Engineer @ CarMax
