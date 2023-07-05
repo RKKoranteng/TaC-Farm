@@ -1,21 +1,4 @@
-# Agile Terminologies
-Modern DBA's typically work within the agile framework. This note will cover some key terms that DBA's should know.
-
-## Agile
-### What's agile methodology?
-
-### Why agile?
-
-### Scrum master?
-
-### Sprints?
-
-### Where does DevOps fall into agile?
-
-
-
 ## Sprint ceremonies
-### What's a sprint ceremony?
 The term "Sprint ceremony" comes from the concept of celebrating key milestones within the sprint. However, they're less about celebrations and more about establishing consistent checkpoints in a project’s lifecycle. These "ceremonies" are essentially meetings when the scrum master, product owner, and development team meet to plan work, discuss work in progress, gather feedback, and more. There are four main scrum ceremonies: 
 1. the sprint planning meeting
 1. the daily stand-up meeting
@@ -23,7 +6,7 @@ The term "Sprint ceremony" comes from the concept of celebrating key milestones 
 1. the sprint retrospective meeting
 
 ### Sprint planning
-* What: Sprint planning is when the team takes time to plan out what work will be completed during the upcoming sprint. These items are traditionally pulled from the product backlog, however they may also come up as new tasks.
+* **What happens in this meeting?** Sprint planning is when the team takes time to plan out what work will be completed during the upcoming sprint. These items are traditionally pulled from the product backlog, however they may also come up as new tasks.
 * When: Spring planning occurs at the beginning of each spring.
 * Who: Typically the sprint planning session has a bigger audience consisting of product owners, scrum master, and development team.
 * Outcome: By the end of sprint planning everybody on the development team should know what the goal of the sprint (meaning what items are to be worked on and what items are placed in the baclkog for later).
