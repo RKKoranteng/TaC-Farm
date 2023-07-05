@@ -3,8 +3,8 @@ Hi, welcome to the "[Modern DBA Project](#)" - a GitHub commuinity project provi
 
 ## Syllabus
 I'm constantly adding new courses as well as updating existing courses as needed. Below are my current courses for you to learn from:
-1. [About this course](#)
-1. [What is a DevOps DBA & how do I become one?](#)
+1. [About the Modern DBA](#)
+1. [Agile](notes/agile)
 1. [Planning phase](#)
 1. [Development practices](#)
 1. [Testing practices](#)
