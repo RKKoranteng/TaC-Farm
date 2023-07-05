@@ -15,6 +15,7 @@ Modern DBA's typically work within the agile framework. This note will cover som
 
 
 ## Sprint ceremonies
+![scrum-ceremonies-timeline.PNG](assets%2Fintro.png)
 ### What's a sprint ceremony?
 
 ### Sprint planning
