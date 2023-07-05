@@ -7,10 +7,10 @@ The term "Sprint ceremony" comes from the concept of celebrating key milestones 
 
 ### Sprint planning
 * **What happens in this meeting?** Sprint planning is when the team takes time to plan out what work will be completed during the upcoming sprint. These items are traditionally pulled from the product backlog, however they may also come up as new tasks.
-* When: Spring planning occurs at the beginning of each spring.
-* Who: Typically the sprint planning session has a bigger audience consisting of product owners, scrum master, and development team.
-* Outcome: By the end of sprint planning everybody on the development team should know what the goal of the sprint (meaning what items are to be worked on and what items are placed in the baclkog for later).
-* Time: Sprint planning sessions typically take 1 hour, however I've seen some take 4 hours (expecially in larger teams with more complex intiatives).
+* **When does this ceremony happen?** Spring planning occurs at the beginning of each spring.
+* **Who's involved?** Typically the sprint planning session has a bigger audience consisting of product owners, scrum master, and development team.
+* **What is the expected outcome of this ceremony?** By the end of sprint planning everybody on the development team should know what the goal of the sprint (meaning what items are to be worked on and what items are placed in the baclkog for later).
+* **How long does this ceremony take?** Sprint planning sessions typically take 1 hour, however I've seen some take 4 hours (expecially in larger teams with more complex intiatives).
 
 ### Daily stand-up/scrum
 * What: Daily stand-up is a daily meeting for the development team to update each other on their task progress (what they completed yesterday, what they're working on today, and if they have any blockers in their way).
