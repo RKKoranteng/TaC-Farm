@@ -1,9 +1,14 @@
 # Sprint ceremonies
-The term "Sprint ceremony" comes from the concept of celebrating key milestones within the sprint. However, they're less about celebrations and more about establishing consistent checkpoints in a project’s lifecycle. These "ceremonies" are essentially meetings when the scrum master, product owner, and development team meet to plan work, discuss work in progress, gather feedback, and more. There are four main scrum ceremonies: 
+**Overview:** The term "Sprint ceremony" comes from the concept of celebrating key milestones within the sprint. However, they're less about celebrations and more about establishing consistent checkpoints in a project’s lifecycle. These "ceremonies" are essentially meetings when the scrum master, product owner, and development team meet to plan work, discuss work in progress, gather feedback, and more. There are four main scrum ceremonies: 
 1. the sprint planning meeting
 1. the daily stand-up meeting
 1. the sprint review meeting
 1. the sprint retrospective meeting
+
+**Let's set expectations**
+* **Does the Modern DBA need to be a scrum master?** No, you should not focus on being a scrum master. You need to just understand the concepts in this lesson.
+* **Does the Modern DBA need scrum certs?** No, you do not need any scrum certs. Having it does'nt hurt but spend your money and time on more relevant certs.
+* **Why does the Modern DBA need this lesson?** You need this lesson to have a better understanding of the various scrum ceremonies since you'll be an active participant in them.
 
 ## 1. Sprint planning
 * **What happens in this meeting?** Sprint planning is when the team takes time to plan out what work will be completed during the upcoming sprint. These items are traditionally pulled from the product backlog, however they may also come up as new tasks.
