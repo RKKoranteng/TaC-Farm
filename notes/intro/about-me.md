@@ -1,5 +1,5 @@
 # About me
-Hi, my name is [Richard Koranteng](https://rkkoranteng.com) and I've been working in tech since 2007. I started my tech career working as a system admin, then a web developer, then an Oracle DBA. Now a day's I work as a Database Engineer focused on database modernization and cost-optimization.
+Hi, my name is [Richard Koranteng](https://rkkoranteng.com). I help DBA's upskill and companies modernize their database real estate.
 
 ## What I've been up to
 * 2007 : System/Oracle Admin @ InquisIT (FTE)
