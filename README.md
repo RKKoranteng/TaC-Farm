@@ -6,9 +6,9 @@ I'm constantly adding new courses as well as updating existing courses as needed
 
 1. [About me](notes/intro/about-me.md)
 1. [About this project](notes/intro/project.md)
-1. [Agile](notes/agile/agile-terminologies.md)
-1. [Scrum](notes/agile/scrum-terminologies.md)
-1. [Sprint ceremonies](notes/agile/sprint-ceremonies.md)
+1. [Agile](notes/agile/agile.md)
+1. [Scrum](notes/agile/scrum.md)
+1. [Sprint](notes/agile/sprint.md)
 1. [Planning phase](#)
 1. [Development practices](#)
 1. [Testing practices](#)
