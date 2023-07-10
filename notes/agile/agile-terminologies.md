@@ -10,7 +10,7 @@
   * looking for better ways of incorporating customer feedback in real time
 
 # Agile workflow
-![agile-workflow.jpg](../assets%2Fagile-workflow.jpg)
+![agile-workflow.jpg](../../assets%2Fagile-workflow.jpg)
 <sub>image source: https://scrumandkanban.co.uk</sub>
 * **Themes** are collection business goals/initiatives toward a common goal. This is the high-level view of (collection of epics).
 * **Epics** are large bodies of work that can be broken down into a number of smaller tasks (called stories). The requirments of the epic are just too big to deliver in a single sprint.
