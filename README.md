@@ -1,8 +1,8 @@
 # Modern DBA Project 
-Hi, welcome to the "[Modern DBA Project](#)" - a GitHub commuinity project providing free learning material for DBA's looking to upskill.
+Hi, welcome to the "Modern DBA Project" - my repo with free learning material for DBA's looking to upskill.
 
 ## Syllabus
-I'm constantly adding new courses as well as updating existing courses as needed. Below are my current courses for you to learn from:
+I'll be adding new topics + updating existing ones needed. Consume this project in the order detailed below:
 
 1. [About me](notes/intro/about-me.md)
 1. [About this project](notes/intro/project.md)
@@ -16,10 +16,9 @@ I'm constantly adding new courses as well as updating existing courses as needed
 1. [Monitoring](#)
 
 ## Contributing
-There are many ways for you to participate in this project, for example:
-* [Submit bugs & feature requests](#), and help me verify as they are checked in
-* Review [code changes](#)
-* Review the [course materials](#) for anything from typos to additional new content
+Want to participate in this project?
+* [Submit bugs & new topic requests](#), and help me verify as they are checked in
+
 
 ## Feedback
 * Ask a question on [DBGuru](#)
