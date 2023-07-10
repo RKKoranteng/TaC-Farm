@@ -1,5 +1,21 @@
-# What is Agile methodology?
-Agile methodology is a project management framework that breaks projects down into several dynamic phases, commonly known as "sprints". After every sprint, teams reflect and look back to see if there was anything that could be improved so they can adjust their strategy for the next sprint. This makes agile an iterative methodology because it allows teams to build, refine, and improve the project, product, or initiative. Unlike waterfall methodology (which isn't as effective for development teams), agile allows teams to work on smaller achievable tasks, then quickly gather feedback. This makes agile more effective because it allows for teams to build fast, learn fast, and adapt to any requirement changes.
+# Talking agile
+* **What's agile?** Agile methodology is an "adaptive" approach to project management because it prioritizes learning from previous outcomes and decisions to improve future practices.
+* **What's the alternative to agile?** Waterfall methodology is the alternative to agile. Waterfall is a "predictive" approach to project management because it requires that the scope of the project are clearly defined and justified the detailed upfront planning. 
+
+* **What problem(s) does agile solve?** The three most important challenges execs face are predictability, quality, and early return on investment. Below is a breakdown of how teachnology teams contribute to these C level headaches. These become the reasons for agile.
+  * not meeting commitments and product delivery timelines
+  * putting poor quality products into market
+  * more transparency and vsisibility between teams into what is going on with the product delivery
+  * need to get products into market faster
+  * finding ways to continuously improve processes
+  * looking for better ways of incorporating customer feedback in real time
+
+Waterfall project management does not work on a  project with changing requirements.
+
+# Taling scrum
+* **What is scrum?** Scrum is a type of framework within the agile motholdogy.
+
+After every sprint, teams reflect and look back to see if there was anything that could be improved so they can adjust their strategy for the next sprint. This makes agile an iterative methodology because it allows teams to build, refine, and improve the project, product, or initiative. Unlike waterfall methodology (which isn't as effective for development teams), agile allows teams to work on smaller achievable tasks, then quickly gather feedback. This makes agile more effective because it allows for teams to build fast, learn fast, and adapt to any requirement changes.
 
 ## Agile
 ### What's agile methodology?

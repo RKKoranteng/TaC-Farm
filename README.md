@@ -3,9 +3,14 @@ Hi, welcome to the "[Modern DBA Project](#)" - a GitHub commuinity project provi
 
 ## Syllabus
 I'm constantly adding new courses as well as updating existing courses as needed. Below are my current courses for you to learn from:
+
+**Intro**
 1. [About me](notes/intro/about-me.md)
 1. [About this project](notes/intro/project.md)
-1. [Agile](notes/agile)
+
+**Agile**
+1. [Agile metholdogy](notes/agile)
+1. [Sprint ceremonies](notes/agile/sprint-ceremonies.md)
 1. [Planning phase](#)
 1. [Development practices](#)
 1. [Testing practices](#)
