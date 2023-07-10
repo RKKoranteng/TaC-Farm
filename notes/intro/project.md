@@ -17,4 +17,9 @@ Here's my description for the modern DBA:
 * Works towards KPI's to ensure the team is supporting the overall goals of the organization.
 * Define, implement, and teach other on database best practices and standards.
 
-As you can see the modern DBA is not a gate-keeper, rather he/she works as a facilitator. Instead of having to focus on routine and repetitive tasks, the modern DBA can put more time and effort into what matters most - adding value to the business. 
+As you can see the modern DBA is not a gate-keeper, rather he/she works as a facilitator. Modern DBA's may go by various title (DBRE, DevOps DBA, Database Engineer, etc), but their objectives are the same:
+* **Automation:** automate routine/repetitive tasks and deliver solutions allowing end-users to seamlessly self service certain database requests.
+* **Big picture (customer satisfaction): **put more time and effort into what matters most (a great database experience for end-users)
+* **Security:** facilitate database best practices and security
+* **Emerging technology:** research and develop solutions that drive outcomes using new technologies (cloud, containers, etc)
+* **Infrastructure:** auto scalabulity and fault-tolerance measure ensuring database uptime 
