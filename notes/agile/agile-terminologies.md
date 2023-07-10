@@ -10,7 +10,7 @@
   * looking for better ways of incorporating customer feedback in real time
 
 # Agile workflow
-<center>![agile-workflow.jpg](../../assets%2Fagile-workflow.jpg)<br/><sub>image source: https://scrumandkanban.co.uk</sub></center>
+<p align="center">![agile-workflow.jpg](../../assets%2Fagile-workflow.jpg)<br/><sub>image source: https://scrumandkanban.co.uk</sub></p>
 * **Themes** are collection business goals/initiatives toward a common goal. This is the high-level view of (collection of epics).
 * **Epics** are large bodies of work that can be broken down into a number of smaller tasks (called stories). The requirments of the epic are just too big to deliver in a single sprint.
 * **Stories** also called "user stories" are short requirements or requests written from the perspective of an end user along with the acceptance criteria for success. Think of user stories as individual features or requirements that the client (and business) wants. It is something that is deliverable (production ready) within a single sprint.
