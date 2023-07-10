@@ -1,14 +1,3 @@
-# Let's talk agile methodology
-* **What's agile?** Agile methodology is an "adaptive" approach to project management because it prioritizes learning from previous outcomes and decisions to improve future practices.
-* **What's the alternative to agile?** Waterfall methodology is the alternative to agile. Waterfall is a "predictive" approach to project management because it requires that the scope of the project are clearly defined and justified the detailed upfront planning. 
-* **What problem(s) does agile solve?** The three most important challenges technology execs face (at least in my experience) are predictability, quality, and early return on investment. Below is a breakdown of how technology teams contribute to these business pain points. These become the reasons for agile.
-  * not meeting commitments and product delivery timelines
-  * putting poor quality products into market
-  * more transparency and vsisibility between teams into what is going on with the product delivery
-  * need to get products into market faster
-  * finding ways to continuously improve processes
-  * looking for better ways of incorporating customer feedback in real time
-
 # Let's talk scrum framework
 * **What's the scrum framework?** Scrum is a type of agile project management framework that helps teams structure and manage their work through a set of values, principles, and practices.
 * **why is it called Scrum?** People often ask, "Is Scrum an acronym for something?" and the answer is no. It is actually inspired by a scrum in the sport of rugby. In rugby, the team comes together in what they call a scrum to work together to move the ball forward. In this context, Scrum is where the team comes together to move the product forward.
@@ -23,4 +12,11 @@
   * serve as the liaison between the development team and stakeholders outside the development team (product owners, etc).
   * facilitate meetings to plan work, track progress, and discuss lessons learned.
 
-# Basic scrum terminologies
+# More scrum terminologies
+* **Sprint**
+* **Sprint ceremony**
+* **Product backlog**
+* **Technical debt**
+* **Forecast**
+* **Burn-down chart**
+* **Burn-up chart**
