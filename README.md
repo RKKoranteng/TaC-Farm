@@ -4,17 +4,18 @@ Hi, welcome to the "Modern DBA Project" - my repo with free learning material fo
 ### Community
 * [Meet our tribe members](TRIBE.md)
 * [All code contributors](https://github.com/RKKoranteng/modern-dba/graphs/contributors)
-* [Repo maintainers](CODEOWNERS)
 
 ### Gontribute
-* Ask a questions on [Slack](#)
+* [Engage on Slack](#)
 * [File an issue](#)
-* [Request a new feature](#)
+* [Submit feature request](#)
 
-See our [wiki](#) for helpful tips on interviewing, DBA role and responsibilities, any many more.
+### Resources
+* [Interview Tips](#)
+* [CONTRIBUTING GUIDE](CONTRIBUTING_GUIDE)
 
 ## Code of Conduct
-This project has adopted the [Open Source Code of Conduct](#). For more information see the [Code of Conduct FAQ](#) or [contact me](https://rkkoranteng.com/#contac_rk) with any additional questions or comments.
+This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 ## License
 Copyright (c) [Richard Koranteng](#). All rights reserved.
