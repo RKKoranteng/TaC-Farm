@@ -5,7 +5,7 @@ Hi, welcome to the "Modern DBA Project" - my repo with free learning material fo
 * [Meet our tribe members](TRIBE.md)
 * [All code contributors](https://github.com/RKKoranteng/modern-dba/graphs/contributors)
 
-### Gontribute
+### Contribute
 * [Ask questions on Slack](#)
 * [File an issue](#)
 * [Submit feature request](#)
