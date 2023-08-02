@@ -1,0 +1,8 @@
+# This file defines individuals or teams that are responsible
+# for code in a repository 
+
+# Default owners for everything ih this repo. 
+*       @RKKoranteng
+
+# Owner of any files in the interview-tips
+interview-tips	@doctocat
