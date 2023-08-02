@@ -12,7 +12,7 @@ Hi, welcome to the "Modern DBA Project" - my repo with free learning material fo
 
 ### Resources
 * [Interview Tips](#)
-* [Contributing guide](CONTRIBUTING_GUIDE)
+* [Guideline for contributing code](CONTRIBUTING_GUIDE.md)
 
 ## Code of Conduct
 This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
