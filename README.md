@@ -2,9 +2,7 @@
 This is a GitHub repo for the Modern DBA Bootcamp projects.
 
 ### Features
-* **Cohort-1**
-  * VirtualBox provisioning automation
-  * Oracle provisioning automation
+* **Cohort-1**: end-to-end automation for oracle provisioning on VirtualBox
 
 ### Community
 * [Meet our tribe members](TRIBE.md)
