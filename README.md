@@ -1,17 +1,17 @@
 # Modern DBA Project 
-Hi, welcome to the "Modern DBA Project" - my repo with free learning material for DBA's looking to upskill.
+This is a GitHub repo for the Modern DBA Bootcamp projects.
+
+### Features
+* **Cohort-1**
+  * VirtualBox provisioning automation
+  * Oracle provisioning automation
 
 ### Community
 * [Meet our tribe members](TRIBE.md)
 * [All code contributors](https://github.com/RKKoranteng/modern-dba/graphs/contributors)
 
-### Contribute
-* [Ask questions on Slack](#)
-* [File an issue](#)
-* [Submit feature request](#)
-
 ### Resources
-* [Interview Tips](#)
+* [File an issue or submit feature request](#)
 * [Guideline for contributing code](CONTRIBUTING_GUIDE.md)
 
 ## Code of Conduct
@@ -19,4 +19,4 @@ This project has adopted the Open Source Code of Conduct. For more information s
 
 ## License
 Copyright (c) [Richard Koranteng](#). All rights reserved.
-Licensed under the [MIT license](#)
+Licensed under the [MIT license](LICENSE.txt)
