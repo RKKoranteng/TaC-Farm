@@ -10,7 +10,7 @@ This is my repo for automating technology stuff for my students.
 
 ### Contribute
 * [File an issue](#) to tell me what to fix
-* [Sumbit RFC](#) to request new features)
+* [Sumbit RFC](#) to request new features
 
 
 ### Code of Conduct
