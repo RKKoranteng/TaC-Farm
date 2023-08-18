@@ -2,11 +2,8 @@
 This is my repo for automating technology stuff for my students.
 
 ### Features
-* **Containerization**
-  * [Docker Linux Sandbox](docker/linuxDocker.ps1) - Docker Linux environment
-
-* **Virtualization**
-  * [VBox Linux Sandbox](vbox/linuxVBox.ps1) - VirtualBox Linux environment
+* [Docker tools](docker/linuxDocker.ps1)
+* [VBox tools](vbox/linuxVBox.ps1)
 
 ### Contribute
 * [File an issue](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) to tell me what to fix
