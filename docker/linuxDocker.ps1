@@ -1,5 +1,5 @@
 # @name: dockerLinuxBuild.ps1
-# @author: Richard Koranteng (https://RKKoranteng.com)
+# @author: Richard Koranteng (RKKoranteng.com)
 # @description: ephemeral Linux environment for playing around
 
 param
