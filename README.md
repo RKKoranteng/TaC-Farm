@@ -1,16 +1,17 @@
-# Modern DBA Project 
-This is a GitHub repo for the Modern DBA Bootcamp projects.
+# Technology as Cattle (Tac)  
+This is my repo for automating technology stuff for my students.
 
 ### Features
-* **Cohort-1**: end-to-end automation for oracle provisioning on VirtualBox
+* **Containerization**
+  * [Docker Linux Sandbox](#) - Docker Linux environment
 
-### Community
-* [Meet the team](COHORTS.md)
-* [All code contributors](https://github.com/RKKoranteng/modern-dba/graphs/contributors)
+* **Virtualization**
+  * [VBox Linux Sandbox](vbox/linuxVBox.ps1) - VirtualBox Linux environment
 
-### Resources
-* [File an issue or submit feature request](#)
-* [Guideline for contributing code](CONTRIBUTING_GUIDE.md)
+### Contribute
+* [File an issue](#) to tell me what to fix
+* [Sumbit RFC](#) to request new features)
+
 
 ## Code of Conduct
 This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
