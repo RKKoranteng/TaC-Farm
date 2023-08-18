@@ -13,9 +13,9 @@ This is my repo for automating technology stuff for my students.
 * [Sumbit RFC](#) to request new features)
 
 
-## Code of Conduct
+### Code of Conduct
 This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
-## License
+### License
 Copyright (c) [Richard Koranteng](RKKoranteng.com). All rights reserved.
 Licensed under the [MIT license](LICENSE.txt)
