@@ -9,8 +9,8 @@ This is my repo for automating technology stuff for my students.
   * [VBox Linux Sandbox](vbox/linuxVBox.ps1) - VirtualBox Linux environment
 
 ### Contribute
-* [File an issue](#) to tell me what to fix
-* [Sumbit RFC](#) to request new features
+* [File an issue](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) to tell me what to fix
+* [Sumbit RFC](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) for feature request
 
 
 ### Code of Conduct
