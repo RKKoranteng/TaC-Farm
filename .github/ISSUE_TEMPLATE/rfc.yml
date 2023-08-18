@@ -1,0 +1,31 @@
+name: 💡 Feature Request
+description: Suggest an idea for this project.
+title: "[RFC]: <title>"
+labels: ["rfc"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking that time to share your idea! Your contribution helps us build great stuff.
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivatioin
+      description: Is your feature request related to a problem? Please describe.
+      placeholder: A clear and concise description of what the problem is. e.g. I'm always frustrated when [...].
+    validations:
+      required: true
+  - type: textarea
+    id: desired-outcome
+    attributes:
+      label: Desired Outcome
+      description: Describe the solution you'd like
+      placeholder: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context 
+      description: Add any other context or screenshots about the feature request here.
+      placeholder:

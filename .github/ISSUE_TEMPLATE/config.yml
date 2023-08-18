@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Check the docs
+    url: https://github.com/RKKoranteng/my-repository-template/tree/main/docs
+    about: Here's our for how-to documentations. If you need help with building a similar template repository, check out the docs.
