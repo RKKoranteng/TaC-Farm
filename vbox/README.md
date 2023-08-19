@@ -3,8 +3,10 @@ VirtualBox Technology as Cattle (TaC)
 
 ### Usage
 1. Clone this repo
-``cd $HOME\Downloads``
-``git clone https://github.com/RKKoranteng/TaC-Farm.git``
+```
+cd $HOME\Downloads
+git clone https://github.com/RKKoranteng/TaC-Farm.git
+```
 
 1. navigate to location 
 
