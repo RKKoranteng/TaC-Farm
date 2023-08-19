@@ -1,26 +1,10 @@
 # TaC Farm - VirtualBox Tools  
 VirtualBox Technology as Cattle (TaC)
 
-### Usage
-1. Clone this repo
+### OEL7 VM on Windows
+1. Run PowerShell as Administrator > then run the commands below:
 ```
 cd $HOME\Downloads
 git clone https://github.com/RKKoranteng/TaC-Farm.git
+$HOME\Downloads\TaC-Farm\vbox\oel7.ps1
 ```
-
-1. navigate to location 
-
-* [Docker tools](docker/linuxDocker.ps1)
-* [VBox tools](vbox/linuxVBox.ps1)
-
-### Contribute
-* [File an issue](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) to tell me what to fix
-* [Sumbit RFC](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) for feature request
-
-
-### Code of Conduct
-This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
-
-### License
-Copyright (c) [Richard Koranteng](RKKoranteng.com). All rights reserved.
-Licensed under the [MIT license](LICENSE.txt)
