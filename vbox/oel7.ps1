@@ -1,6 +1,6 @@
-﻿# @name: ProvisionVBOX
+﻿# @name: oel7.ps1
 # @author: Richard Koranteng (RKKoranteng.com)
-# @description: install Oracle VirtualBox and create VM
+# @description: install VirtualBox and create OEL7 VM
 #
 # Change Log:
 # 08.09.2023 - initial script
@@ -42,7 +42,8 @@ $rootPassword = "welcome1"
 $cpu = "2"
 
 # declare log file
-$logFile = "$home\Downloads\rk-vbox-installer.txt"
+$logFileTS = (Get-Date).AddDays(-1).ToString('MM-dd-yyyy-s')
+$logFile = "$home\Downloads\rk-installer-vbox-oel7--$logFileTS.txt"
 
 # timestamp function
 function Get-TimeStamp {  
@@ -70,7 +71,7 @@ if ( $installed.DisplayName -ne 'VirtualBox system service' )
     # install VBox
     Write-Output "$(Get-TimeStamp) Installing VirtualBox Software ..." | Tee-Object -FilePath $logFile -append
     $vmEnvPath = "C:\VirtualBox"
-    .$home\Downloads\$vBoxExe --msiparams INSTALLDIR=$vmPath --silent --ignore-reboot
+    .$home\Downloads\$vBoxExe --msiparams INSTALLDIR=$vmEnvPath --silent --ignore-reboot
     Start-Sleep -Seconds 30
     $env:PATH = $env:PATH + ";$vmEnvPath" 
 }
