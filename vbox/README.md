@@ -11,3 +11,4 @@ cd $HOME\Downloads
 git clone https://github.com/RKKoranteng/TaC-Farm.git
 $HOME\Downloads\TaC-Farm\vbox\oel7.ps1
 ```
+> Your VM is now created with the following credentials username=root and password=welcome1
