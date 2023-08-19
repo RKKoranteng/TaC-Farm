@@ -19,7 +19,7 @@ $vBoxExe = "VirtualBox-7.0.10-158379-Win.exe"
 $vBoxVer = "7.0.10"
 
 # declare VM name
-$vmName = "kofidev"
+$vmName = "ldev"
 
 # declare path for VM objects
 $vmPath="$HOME\VirtualBox VMs"
