@@ -3,7 +3,7 @@ This is my repo for automating technology stuff for my students.
 
 ### Features
 * [Docker tools](docker/linuxDocker.ps1)
-* [VBox tools](vbox/linuxVBox.ps1)
+* [VBox tools](vbox/README.md)
 
 ### Contribute
 * [File an issue](https://github.com/RKKoranteng/TaC-Farm/issues/new/choose) to tell me what to fix
