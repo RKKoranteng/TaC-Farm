@@ -14,5 +14,5 @@ This is my repo for automating technology stuff for my students.
 This project has adopted the Open Source Code of Conduct. For more information see the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 ### License
-Copyright (c) [Richard Koranteng](RKKoranteng.com). All rights reserved.
+Copyright (c) [Richard Koranteng](https://RKKoranteng.com). All rights reserved.
 Licensed under the [MIT license](LICENSE.txt)
