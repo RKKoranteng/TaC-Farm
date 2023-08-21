@@ -1,7 +1,7 @@
 # TaC Farm - VirtualBox Tools  
 VirtualBox Technology as Cattle (TaC)
 
-Prerequisite:
+**Prerequisite:**
 * You need Git. See ['Getting Started - Installing Git'](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### OEL7 VM on Windows
