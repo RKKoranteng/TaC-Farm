@@ -43,7 +43,7 @@ $cpu = "2"
 
 # declare log file
 $logFileTS = (Get-Date).AddDays(-1).ToString('MM-dd-yyyy-s')
-$logFile = "$home\Downloads\rk-installer-vbox-oel7--$logFileTS.txt"
+$logFile = "$home\Downloads\tac-vbox-oel7-$logFileTS.txt"
 
 # timestamp function
 function Get-TimeStamp {  
