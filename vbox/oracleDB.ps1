@@ -1,6 +1,6 @@
-# @name: dbOracleStorage.ps1
+# @name: oracleDB.ps1
 # @author: Richard Koranteng (RKKoranteng.com)
-# @description: provision storage for database install & configuration
+# @description: stage VM for deploying oracle database
 #
 # Change Log:
 # 08.21.2023 - initial script
