@@ -28,7 +28,7 @@ $vmPath="$HOME\VirtualBox VMs"
 $vmOS = "Oracle7_64"
 
 # declare VM storage size in MB
-$vmDiskSize = "10240"
+$vmDiskSize = "20240"
 
 # declare VM RAM and VRAM (in MB)
 $memory = "4096"
@@ -54,6 +54,8 @@ function Get-TimeStamp {
 if (!(Test-Path "$home\Downloads\$isoName" )) {
     Write-Output "$(Get-TimeStamp) Downloading $isoName iso ..." | Tee-Object -FilePath $logFile -append
     wget "$isoURL" -OutFile "$home\Downloads\$isoName"
+} else {
+    Write-Output "$(Get-TimeStamp) $isoName iso already downloaded ..." | Tee-Object -FilePath $logFile -append
 }
 
 ## check if VBox is already installed
@@ -64,8 +66,10 @@ if ( $installed.DisplayName -ne 'VirtualBox system service' )
 
     # download VBox 
     if (!(Test-Path "$home\Downloads\$vBoxExe" )) {
-        Write-Output "$(Get-TimeStamp) Downloading VirstualBox $vBoxVer ..." | Tee-Object -FilePath $logFile -append
+        Write-Output "$(Get-TimeStamp) Downloading VirtualBox $vBoxVer ..." | Tee-Object -FilePath $logFile -append
         wget "https://download.virtualbox.org/virtualbox/$vBoxVer/$vBoxExe" -OutFile "$home\Downloads\$vBoxExe"
+    } else {
+        Write-Output "$(Get-TimeStamp) VirtualBox $vBoxVer already downloaded ..." | Tee-Object -FilePath $logFile -append
     }
 
     # install VBox
@@ -87,7 +91,7 @@ else
 }
 
 # create and register VM
-Write-Output "$(Get-TimeStamp) Creating VM ..." | Tee-Object -FilePath $logFile -append
+Write-Output "$(Get-TimeStamp) Creating VM $vmName ..." | Tee-Object -FilePath $logFile -append
 VBoxManage createvm --name $vmName --ostype $vmOS --register --basefolder $vmPath
 
 # create VM storage medium
