@@ -16,6 +16,9 @@ $oracleRedoADiskSize="5024"
 $oracleRedoBDiskSize="5024"
 $oracleDataDisk="50240"
 
+# declare path for VM objects
+$vmPath="$HOME\VirtualBox VMs"
+
 # declare log file
 $logFileTS = (Get-Date).AddDays(-1).ToString('MM-dd-yyyy-s')
 $logFile = "$home\Downloads\tac-vbox-dboracle-$logFileTS.txt"
