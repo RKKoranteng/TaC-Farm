@@ -3,7 +3,7 @@ Oracle Technology as Cattle (TaC)
 
 **Prerequisite:**
 * You need Git. See ['Getting Started - Installing Git'](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* You need OEL VM. See ['TaC Farm - VirtualBox Tools'](../vbox/README.md)
+* You need OEL VM. See ['TaC Farm - VirtualBox Tools'](../vbox)
 
 **What's available**
 * [Oracle 19c](#oracle-12c)
