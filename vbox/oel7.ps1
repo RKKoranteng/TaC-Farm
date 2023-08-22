@@ -73,7 +73,10 @@ if ( $installed.DisplayName -ne 'VirtualBox system service' )
     $vmEnvPath = "C:\VirtualBox"
     .$home\Downloads\$vBoxExe --msiparams INSTALLDIR=$vmEnvPath --silent --ignore-reboot
     Start-Sleep -Seconds 30
-    $env:PATH = $env:PATH + ";$vmEnvPath" 
+    $path = $Env:Path
+    $newpath = $path.replace("$vmEnvPath","")
+    $env:Path = $newpath
+    $env:PATH = $env:PATH + ";$vmEnvPath;" 
 }
 else 
 {
