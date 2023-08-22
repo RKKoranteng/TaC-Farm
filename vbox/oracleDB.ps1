@@ -1,6 +1,6 @@
 # @name: oracleDB.ps1
 # @author: Richard Koranteng (RKKoranteng.com)
-# @description: stage VM for deploying oracle database
+# @description: define VM settings for deploying oracle database
 #
 # Change Log:
 # 08.21.2023 - initial script
