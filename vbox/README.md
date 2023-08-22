@@ -4,7 +4,10 @@ VirtualBox Technology as Cattle (TaC)
 **Prerequisite:**
 * You need Git. See ['Getting Started - Installing Git'](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-### OEL7 VM on Windows
+**What's available**
+* #OEL7 VM on WIndows
+
+### OEL7 VM on Windows(#oel7-vm-on-windows)
 Run PowerShell as Administrator > then run the commands below:
 ```
 cd $HOME\Downloads
