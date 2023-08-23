@@ -5,12 +5,12 @@ VirtualBox Technology as Cattle (TaC)
 * You need Git. See ['Getting Started - Installing Git'](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 **What's available**
-* [OEL7 VM on WIndows](#oel7.ps1)
-* [Uninstall VBox](#uninstallVBox.ps1)
+* [OEL7 VM](#oel7-vm)
+* [Uninstall VBox](#uninstall-vbox)
 
 ***
 
-### OEL7 VM on Windows
+### OEL7 VM
 Run PowerShell as Administrator > then run the commands below:
 ```
 cd $HOME\Downloads
