@@ -1,13 +1,12 @@
+name: Create and Release Assets
+
 on:
   push:
     tags:
       - '*'
 
-name: Create Release
-
 jobs:
   build:
-    name: Create Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -28,7 +27,6 @@ jobs:
           prerelease: false
 
    release:
-    name: Upload Release Asset
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
