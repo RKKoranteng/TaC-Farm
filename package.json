@@ -1,18 +1,18 @@
 {
-  "name": "upload-release-asset",
+  "name": "create-release",
   "version": "1.0.0",
-  "private": true,
-  "description": "Upload a release asset to an existing GitHub Release",
+  "description": "Create a release",
   "main": "dist/index.js",
   "scripts": {
-    "lint": "eslint 'src/**.js' 'tests/**.js' --fix",
-    "test": "eslint 'src/**.js' 'tests/**.js' && jest --coverage",
+    "lint": "eslint \"src/**.js\" \"tests/**.js\" --fix",
+    "test": "eslint \"src/**.js\" \"tests/**.js\" && jest --coverage",
+    "test:debug": "node --inspect-brk node_modules/.bin/jest --runInBand",
     "build": "ncc build src/main.js",
     "precommit": "npm run build && git add dist/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/upload-release-asset"
+    "url": "git+https://github.com/actions/create-release"
   },
   "keywords": [
     "actions",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@actions/core": "^1.0.0",
     "@actions/exec": "^1.0.0",
-    "@actions/github": "^1.0.0"
+    "@actions/github": "^2.2.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.4",
@@ -41,7 +41,7 @@
   "jest": {
     "testEnvironment": "node",
     "collectCoverageFrom": [
-      "src/upload-release-asset.js"
+      "src/create-release.js"
     ],
     "coverageThreshold": {
       "global": {
