@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Build Release
+    name: build
     runs-on: ubuntu-latest
     steps:
       - name: checkout code
@@ -21,8 +21,23 @@ jobs:
           draft: false
           prerelease: false
           #release_name: ${{ steps.version.outputs.version }}
-          tag_name: v${{ github.ref }}
+          tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body_path: CHANGELOG.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOiKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  release:
+       name: release
+       runs-on: ubuntu-latest
+       steps:
+         - name: Upload Release Asset
+           id: upload-release-asset 
+           uses: actions/upload-release-asset@v1
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           with:
+             upload_url: ${{ steps.create_release.outputs.upload_url }} 
+             asset_path: ./build.zip
+             asset_name: build.zip
+             asset_content_type: application/zip
