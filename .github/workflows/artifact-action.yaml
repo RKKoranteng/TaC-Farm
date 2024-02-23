@@ -13,18 +13,16 @@ jobs:
       - name: checkout code
         uses: actions/checkout@v2
       - name: use node.js
-        uses: actions/setup-node@v3
-      - name: version
-        run: echo "::set-output name=version::$(./bin/azblogfilter --version)"
-        id: version
+        uses: actions/setup-node@v3 
       - name: create release
         id: create_release
         uses: actions/create-release@v1
         with:
           draft: false
           prerelease: true
-          release_name: ${{ steps.version.outputs.version }}
+          #release_name: ${{ steps.version.outputs.version }}
           tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
           body_path: CHANGELOG.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
