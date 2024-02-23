@@ -1,4 +1,4 @@
-name: Create and Release Assets
+name: Build and Release Assets
 
 on:
   push:
@@ -7,15 +7,22 @@ on:
 
 jobs:
   build:
-    name: Create Release
+    name: Build Release
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: checkout code
         uses: actions/checkout@v2
-      - name: Create Release
+      - name: version
+        run: echo "::set-output name=version::$(./bin/azblogfilter --version)"
+        id: version
+      - name: create release
         id: create_release
         uses: actions/create-release@v1
         with:
+          draft: false
+          prerelease: false
+          release_name: ${{ steps.version.outputs.version }}
           tag_name: ${{ github.ref }}
+          body_path: CHANGELOG.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
